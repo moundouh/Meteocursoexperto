@@ -1,0 +1,7 @@
+{
+  "eumetsatWmsUrl": "https://view.eumetsat.int/geoserver/wms",
+  "eumetsatLayerName": "",
+  "radarOpacity": 0.65,
+  "animationIntervalMs": 800,
+  "showRadarOnMap": true
+}
